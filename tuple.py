@@ -1,0 +1,7 @@
+tuple1=("Python","happy","To","Study")
+l2 = input("Enter a sentens :- ")
+l3 = l2.split(' ')
+tuple1 = list(tuple1)
+tuple1.extend(l3)
+tuple1 = tuple(tuple1)
+print(tuple1)

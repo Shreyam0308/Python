@@ -1,0 +1,14 @@
+String :-->
+	
+1) Character Menipulation
+	1) Capital
+	2) Upper
+	3) Lower
+	4) Title
+	5) Swapcase
+	6) Casefold
+
+2) Alignment Methods
+	1) Center(size,filler)
+	2) rjust(size,filler)
+	3) ljust(size,filler)
